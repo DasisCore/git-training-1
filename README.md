@@ -10,7 +10,7 @@ layout: editorial
 
 #### ANOA Download Link
 
-{% embed url="https://drive.google.com/file/d/1dkvQhWo0B3L09lx8Vkvy9ns0P43LANSo/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1gunE9G0P5hlLSn3_xYQ9u7u3pyraRXzh/view" %}
 
 ## 1. 개요 <a href="#1." id="1."></a>
 
